@@ -2,8 +2,6 @@
   "name": "client",
   "version": "0.1.0",
   "private": true,
-  "clientchat": "https://giangndse04639.github.io/clientchat",
-  "author": "giang",
   "dependencies": {
     "jquery": "^3.2.1",
     "lodash": "^4.17.4",
