@@ -2,7 +2,7 @@
   "name": "client",
   "version": "0.1.0",
   "private": true,
-  "clientchat": "https://github.com/giangndse04639/chat.git",
+  "clientchat": "https://giangndse04639.github.io/clientchat",
   "author": "giang",
   "dependencies": {
     "jquery": "^3.2.1",
