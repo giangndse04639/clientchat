@@ -2,6 +2,8 @@
   "name": "client",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://github.com/giangndse04639/chat.git",
+  "author": "giang",
   "dependencies": {
     "jquery": "^3.2.1",
     "lodash": "^4.17.4",
